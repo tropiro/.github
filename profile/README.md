@@ -19,3 +19,6 @@ program access.
 
 Founded by [Christopher Yanez](https://github.com/chrisavor), a Computer Science
 student at the University of Central Florida.
+
+[Website](https://tropiro.com) ·
+[RangeSpec 0.1.0](https://github.com/tropiro/rangespec/releases/tag/v0.1.0)
